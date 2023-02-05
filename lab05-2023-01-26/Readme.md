@@ -12,7 +12,7 @@
 
 > **เงื่อนไข:** ให้เหลือจำนวน Available IPs น้อยที่สุด
 
-![1.](https://github.com/oak072544/kmutnb-cn-jiraphat-10/blob/a12063651c620f45b251eb6352523e4851e12caf/lab05-2023-01-26/lab05-Page-2.drawio.png)
+![1.](lab05-2023-01-26/lab05-Page-2.drawio.png)
 
 #### 2. กำหนดให้ VPC มี CIDR range 10.0.0.0/8 จงออกแบบ subnet(vswitch) ตามรายละเอียดดังนี้
 
